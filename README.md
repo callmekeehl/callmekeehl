@@ -25,7 +25,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=flutter,python,react,html,css,js,flask,fastapi,bootstrap,blender,postman,robloxstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,html,css,js,flask,fastapi,bootstrap,blender,postman,robloxstudio" />
   <br/>
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase," />
