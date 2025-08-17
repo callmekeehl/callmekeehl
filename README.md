@@ -2,16 +2,25 @@
 <p align="center">
   <img src="https://i.ibb.co/Vj9v5Tt/code-banner.gif" width="100%" alt="Coding Banner"/>
 </p>
+<p align="center">
+  <img src="https://i.ibb.co/Vj9v5Tt/code-banner.gif" width="100%" alt="Coding Banner"/>
+</p>
 
-<h1 align="center">👋 Hi, I'm Godwin Keehl</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hi, I'm Godwin Keehl
+</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Solve+the+problem.+Then,+write+the+code." alt="Typing SVG"/>
 </p>
+
 <h3 align="center">🚀 Fullstack Developer | Mobile & Web Enthusiast</h3>
 
 ---
 
 ## 💫 About Me
+
 - 🌍 Based in **Togo**
 - 💻 Fullstack Developer with focus on **Flutter** & **Python (Flask/FastAPI/Django)**
 - 🌐 Experience with **ReactJS, HTML, CSS, JavaScript**
@@ -50,6 +59,7 @@
 ---
 
 ## 🌎 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/godwin-gayi-a17b54281/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="mailto:justkeehl@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40"/></a>
@@ -65,10 +75,17 @@
 ---
 
 ## 📖 Dev Quote of the Day
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> 
+  <strong>Thanks for visiting my profile!</strong> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</p>
 
 ⭐️ From [Godwin](https://github.com/callmekeehl)
