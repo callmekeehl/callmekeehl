@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://i.ibb.co/Vj9v5Tt/code-banner.gif" width="100%" alt="Coding Banner"/>
 </p>
-<p align="center">
-  <img src="https://i.ibb.co/Vj9v5Tt/code-banner.gif" width="100%" alt="Coding Banner"/>
-</p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
@@ -12,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Solve+the+problem.+Then,+write+the+code." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=BB00FF&center=true&vCenter=true&width=700&lines=Solve+the+problem.+Then,+write+the+code." alt="Typing SVG"/>
 </p>
 
 <h3 align="center">🚀 Fullstack Developer | Mobile & Web Enthusiast</h3>
@@ -37,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,html,css,js,flask,fastapi,bootstrap,blender,postman,robloxstudio" />
   <br/>
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase," />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase" />
   <br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
@@ -49,7 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=callmekeehl&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmekeehl&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmekeehl&theme=highcontrast&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
